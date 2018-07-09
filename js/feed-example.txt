@@ -1,0 +1,28 @@
+cell: "081-524-7931"
+dob: "1956-11-26 17:53:54"
+email: "leo.owens@example.com"
+location:
+  city:"loughrea"
+  postcode: 57155
+  state: "longford"
+  street:"3538 the green"
+
+login:
+  md5: "d4c438ba73c2e91c4c377e1497e809c7"
+  password: "pearl"
+  salt: "onUfFx1d"
+  sha1: "6bbeae40628ac6ea4daef251afcd261d5a5f35d2"
+  sha256: "69b38bd1fad6756730557a587ebd5236d7db8db1d3cd3410a36b8d2fc7623e3f"
+  username: "greenfish301"
+  
+name:
+  first: "leo"
+  last: "owens"
+  title: "mr"
+
+nat: "IE"
+
+picture:
+  large: "https://randomuser.me/api/portraits/men/88.jpg"
+  medium: "https://randomuser.me/api/portraits/med/men/88.jpg"
+  thumbnail: "https://randomuser.me/api/portraits/thumb/men/88.jpg"
