@@ -25,7 +25,8 @@ exc = exlcude only these and show the rest of the fields
 End of Default API ---------------------------------------------------------------------------------------------------------- */
 
 // --- Global Vars for API ----------------------------------------------------------------------------------------------------
-var url = "https://randomuser.me/api/";                                 //URL
+//var url = "https://randomuser.me/api/";                                 //URL API was updated - broke application
+var url = "https://randomuser.me/api/1.1/";                             //URL - reverted to Version used during original development
 var ruResults = "?results=12";                                          //Only 12 users requested-must start with Question Mark
 var ruNationality = "&nat=AU,CA,GB,IE,NZ,US";                           //English Aphabet Countries(& = options)
 var ruIncludes = "&inc=picture,name,login,email,location,cell,nat,dob"; //Include only these fields
